@@ -24,3 +24,11 @@ cd simple-taiko-node
 ```
 cp .env.sample .env
 ```
+# 3
+
+```
+apt install nano
+```
+```
+nano .env
+```
